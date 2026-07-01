@@ -1,0 +1,785 @@
+question,model,answer,accuracy,precision,recall,f1
+What pests affect Rice?,Gemini Baseline Standalone Gemini 2.5 Flash,"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What pests affect Rice?,Think-on-Graph (ToG),"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What pests affect Rice?,LangChain GraphCypherQAChain,"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What pests affect Rice?,Proposed GraphRAG (ours),"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What pests attack Wheat?,Gemini Baseline Standalone Gemini 2.5 Flash,"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What pests attack Wheat?,Think-on-Graph (ToG),"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What pests attack Wheat?,LangChain GraphCypherQAChain,"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What pests attack Wheat?,Proposed GraphRAG (ours),"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What pests affect Cotton?,Gemini Baseline Standalone Gemini 2.5 Flash,"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What pests affect Cotton?,Think-on-Graph (ToG),"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What pests affect Cotton?,LangChain GraphCypherQAChain,"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What pests affect Cotton?,Proposed GraphRAG (ours),"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What insects affect Maize?,Gemini Baseline Standalone Gemini 2.5 Flash,"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What insects affect Maize?,Think-on-Graph (ToG),"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What insects affect Maize?,LangChain GraphCypherQAChain,"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What insects affect Maize?,Proposed GraphRAG (ours),"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What pests attack Sorghum?,Gemini Baseline Standalone Gemini 2.5 Flash,"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What pests attack Sorghum?,Think-on-Graph (ToG),"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What pests attack Sorghum?,LangChain GraphCypherQAChain,"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What pests attack Sorghum?,Proposed GraphRAG (ours),"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What pests affect Sugarcane?,Gemini Baseline Standalone Gemini 2.5 Flash,"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What pests affect Sugarcane?,Think-on-Graph (ToG),"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What pests affect Sugarcane?,LangChain GraphCypherQAChain,"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What pests affect Sugarcane?,Proposed GraphRAG (ours),"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What pests attack Groundnut?,Gemini Baseline Standalone Gemini 2.5 Flash,"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What pests attack Groundnut?,Think-on-Graph (ToG),"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What pests attack Groundnut?,LangChain GraphCypherQAChain,"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What pests attack Groundnut?,Proposed GraphRAG (ours),"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What pests affect Mustard?,Gemini Baseline Standalone Gemini 2.5 Flash,"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What pests affect Mustard?,Think-on-Graph (ToG),"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What pests affect Mustard?,LangChain GraphCypherQAChain,"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What pests affect Mustard?,Proposed GraphRAG (ours),"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What pests attack Soybean?,Gemini Baseline Standalone Gemini 2.5 Flash,"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What pests attack Soybean?,Think-on-Graph (ToG),"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What pests attack Soybean?,LangChain GraphCypherQAChain,"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What pests attack Soybean?,Proposed GraphRAG (ours),"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What pests affect Sunflower?,Gemini Baseline Standalone Gemini 2.5 Flash,"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What pests affect Sunflower?,Think-on-Graph (ToG),"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What pests affect Sunflower?,LangChain GraphCypherQAChain,"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What pests affect Sunflower?,Proposed GraphRAG (ours),"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What diseases affect Rice?,Gemini Baseline Standalone Gemini 2.5 Flash,"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What diseases affect Rice?,Think-on-Graph (ToG),"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What diseases affect Rice?,LangChain GraphCypherQAChain,"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What diseases affect Rice?,Proposed GraphRAG (ours),"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What diseases affect Wheat?,Gemini Baseline Standalone Gemini 2.5 Flash,"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What diseases affect Wheat?,Think-on-Graph (ToG),"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What diseases affect Wheat?,LangChain GraphCypherQAChain,"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What diseases affect Wheat?,Proposed GraphRAG (ours),"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What diseases affect Cotton?,Gemini Baseline Standalone Gemini 2.5 Flash,"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What diseases affect Cotton?,Think-on-Graph (ToG),"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What diseases affect Cotton?,LangChain GraphCypherQAChain,"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What diseases affect Cotton?,Proposed GraphRAG (ours),"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What diseases affect Maize?,Gemini Baseline Standalone Gemini 2.5 Flash,"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What diseases affect Maize?,Think-on-Graph (ToG),"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What diseases affect Maize?,LangChain GraphCypherQAChain,"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What diseases affect Maize?,Proposed GraphRAG (ours),"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What diseases affect Tomato?,Gemini Baseline Standalone Gemini 2.5 Flash,"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What diseases affect Tomato?,Think-on-Graph (ToG),"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What diseases affect Tomato?,LangChain GraphCypherQAChain,"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What diseases affect Tomato?,Proposed GraphRAG (ours),"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What diseases affect Potato?,Gemini Baseline Standalone Gemini 2.5 Flash,"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What diseases affect Potato?,Think-on-Graph (ToG),"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What diseases affect Potato?,LangChain GraphCypherQAChain,"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What diseases affect Potato?,Proposed GraphRAG (ours),"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What diseases affect Sugarcane?,Gemini Baseline Standalone Gemini 2.5 Flash,"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What diseases affect Sugarcane?,Think-on-Graph (ToG),"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What diseases affect Sugarcane?,LangChain GraphCypherQAChain,"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What diseases affect Sugarcane?,Proposed GraphRAG (ours),"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What diseases affect Groundnut?,Gemini Baseline Standalone Gemini 2.5 Flash,"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What diseases affect Groundnut?,Think-on-Graph (ToG),"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What diseases affect Groundnut?,LangChain GraphCypherQAChain,"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What diseases affect Groundnut?,Proposed GraphRAG (ours),"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What diseases affect Mustard?,Gemini Baseline Standalone Gemini 2.5 Flash,"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What diseases affect Mustard?,Think-on-Graph (ToG),"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What diseases affect Mustard?,LangChain GraphCypherQAChain,"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What diseases affect Mustard?,Proposed GraphRAG (ours),"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What diseases affect Soybean?,Gemini Baseline Standalone Gemini 2.5 Flash,"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What diseases affect Soybean?,Think-on-Graph (ToG),"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What diseases affect Soybean?,LangChain GraphCypherQAChain,"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What diseases affect Soybean?,Proposed GraphRAG (ours),"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What pesticides control pests in Rice?,Gemini Baseline Standalone Gemini 2.5 Flash,"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What pesticides control pests in Rice?,Think-on-Graph (ToG),"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What pesticides control pests in Rice?,LangChain GraphCypherQAChain,"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What pesticides control pests in Rice?,Proposed GraphRAG (ours),"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What chemicals control Wheat diseases?,Gemini Baseline Standalone Gemini 2.5 Flash,"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What chemicals control Wheat diseases?,Think-on-Graph (ToG),"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What chemicals control Wheat diseases?,LangChain GraphCypherQAChain,"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What chemicals control Wheat diseases?,Proposed GraphRAG (ours),"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+How to control Bollworm in Cotton?,Gemini Baseline Standalone Gemini 2.5 Flash,"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+How to control Bollworm in Cotton?,Think-on-Graph (ToG),"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+How to control Bollworm in Cotton?,LangChain GraphCypherQAChain,"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+How to control Bollworm in Cotton?,Proposed GraphRAG (ours),"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What pesticides control Aphids in Mustard?,Gemini Baseline Standalone Gemini 2.5 Flash,"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What pesticides control Aphids in Mustard?,Think-on-Graph (ToG),"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What pesticides control Aphids in Mustard?,LangChain GraphCypherQAChain,"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What pesticides control Aphids in Mustard?,Proposed GraphRAG (ours),"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+How to manage Stem Borer in Rice?,Gemini Baseline Standalone Gemini 2.5 Flash,"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+How to manage Stem Borer in Rice?,Think-on-Graph (ToG),"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+How to manage Stem Borer in Rice?,LangChain GraphCypherQAChain,"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+How to manage Stem Borer in Rice?,Proposed GraphRAG (ours),"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What controls Brown Plant Hopper in Rice?,Gemini Baseline Standalone Gemini 2.5 Flash,"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What controls Brown Plant Hopper in Rice?,Think-on-Graph (ToG),"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What controls Brown Plant Hopper in Rice?,LangChain GraphCypherQAChain,"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What controls Brown Plant Hopper in Rice?,Proposed GraphRAG (ours),"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What fungicides control Blast in Rice?,Gemini Baseline Standalone Gemini 2.5 Flash,"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What fungicides control Blast in Rice?,Think-on-Graph (ToG),"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What fungicides control Blast in Rice?,LangChain GraphCypherQAChain,"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What fungicides control Blast in Rice?,Proposed GraphRAG (ours),"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What controls Late Blight in Potato?,Gemini Baseline Standalone Gemini 2.5 Flash,"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What controls Late Blight in Potato?,Think-on-Graph (ToG),"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What controls Late Blight in Potato?,LangChain GraphCypherQAChain,"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What controls Late Blight in Potato?,Proposed GraphRAG (ours),"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What pesticides control Whitefly in Cotton?,Gemini Baseline Standalone Gemini 2.5 Flash,"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What pesticides control Whitefly in Cotton?,Think-on-Graph (ToG),"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What pesticides control Whitefly in Cotton?,LangChain GraphCypherQAChain,"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What pesticides control Whitefly in Cotton?,Proposed GraphRAG (ours),"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What controls Downy Mildew in Mustard?,Gemini Baseline Standalone Gemini 2.5 Flash,"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What controls Downy Mildew in Mustard?,Think-on-Graph (ToG),"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What controls Downy Mildew in Mustard?,LangChain GraphCypherQAChain,"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What controls Downy Mildew in Mustard?,Proposed GraphRAG (ours),"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+In which states is Rice grown?,Gemini Baseline Standalone Gemini 2.5 Flash,"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+In which states is Rice grown?,Think-on-Graph (ToG),"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+In which states is Rice grown?,LangChain GraphCypherQAChain,"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+In which states is Rice grown?,Proposed GraphRAG (ours),"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+Where is Wheat grown in India?,Gemini Baseline Standalone Gemini 2.5 Flash,"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+Where is Wheat grown in India?,Think-on-Graph (ToG),"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+Where is Wheat grown in India?,LangChain GraphCypherQAChain,"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+Where is Wheat grown in India?,Proposed GraphRAG (ours),"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+Which states grow Cotton?,Gemini Baseline Standalone Gemini 2.5 Flash,"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+Which states grow Cotton?,Think-on-Graph (ToG),"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+Which states grow Cotton?,LangChain GraphCypherQAChain,"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+Which states grow Cotton?,Proposed GraphRAG (ours),"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+Where is Sugarcane grown?,Gemini Baseline Standalone Gemini 2.5 Flash,"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+Where is Sugarcane grown?,Think-on-Graph (ToG),"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+Where is Sugarcane grown?,LangChain GraphCypherQAChain,"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+Where is Sugarcane grown?,Proposed GraphRAG (ours),"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+Which states cultivate Maize?,Gemini Baseline Standalone Gemini 2.5 Flash,"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+Which states cultivate Maize?,Think-on-Graph (ToG),"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+Which states cultivate Maize?,LangChain GraphCypherQAChain,"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+Which states cultivate Maize?,Proposed GraphRAG (ours),"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+Where is Groundnut grown?,Gemini Baseline Standalone Gemini 2.5 Flash,"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+Where is Groundnut grown?,Think-on-Graph (ToG),"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+Where is Groundnut grown?,LangChain GraphCypherQAChain,"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+Where is Groundnut grown?,Proposed GraphRAG (ours),"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+Which states grow Mustard?,Gemini Baseline Standalone Gemini 2.5 Flash,"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+Which states grow Mustard?,Think-on-Graph (ToG),"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+Which states grow Mustard?,LangChain GraphCypherQAChain,"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+Which states grow Mustard?,Proposed GraphRAG (ours),"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+Where is Soybean cultivated?,Gemini Baseline Standalone Gemini 2.5 Flash,"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+Where is Soybean cultivated?,Think-on-Graph (ToG),"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+Where is Soybean cultivated?,LangChain GraphCypherQAChain,"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+Where is Soybean cultivated?,Proposed GraphRAG (ours),"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+Which states grow Potato?,Gemini Baseline Standalone Gemini 2.5 Flash,"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+Which states grow Potato?,Think-on-Graph (ToG),"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+Which states grow Potato?,LangChain GraphCypherQAChain,"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+Which states grow Potato?,Proposed GraphRAG (ours),"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+Where is Sunflower grown in India?,Gemini Baseline Standalone Gemini 2.5 Flash,"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+Where is Sunflower grown in India?,Think-on-Graph (ToG),"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+Where is Sunflower grown in India?,LangChain GraphCypherQAChain,"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+Where is Sunflower grown in India?,Proposed GraphRAG (ours),"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+In which season is Rice grown?,Gemini Baseline Standalone Gemini 2.5 Flash,"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+In which season is Rice grown?,Think-on-Graph (ToG),"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+In which season is Rice grown?,LangChain GraphCypherQAChain,"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+In which season is Rice grown?,Proposed GraphRAG (ours),"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What season is Wheat grown?,Gemini Baseline Standalone Gemini 2.5 Flash,"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What season is Wheat grown?,Think-on-Graph (ToG),"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What season is Wheat grown?,LangChain GraphCypherQAChain,"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What season is Wheat grown?,Proposed GraphRAG (ours),"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+When is Maize cultivated?,Gemini Baseline Standalone Gemini 2.5 Flash,"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+When is Maize cultivated?,Think-on-Graph (ToG),"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+When is Maize cultivated?,LangChain GraphCypherQAChain,"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+When is Maize cultivated?,Proposed GraphRAG (ours),"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What season is Mustard grown?,Gemini Baseline Standalone Gemini 2.5 Flash,"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What season is Mustard grown?,Think-on-Graph (ToG),"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What season is Mustard grown?,LangChain GraphCypherQAChain,"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What season is Mustard grown?,Proposed GraphRAG (ours),"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+When is Groundnut grown?,Gemini Baseline Standalone Gemini 2.5 Flash,"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+When is Groundnut grown?,Think-on-Graph (ToG),"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+When is Groundnut grown?,LangChain GraphCypherQAChain,"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+When is Groundnut grown?,Proposed GraphRAG (ours),"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What season is Sugarcane planted?,Gemini Baseline Standalone Gemini 2.5 Flash,"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What season is Sugarcane planted?,Think-on-Graph (ToG),"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What season is Sugarcane planted?,LangChain GraphCypherQAChain,"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What season is Sugarcane planted?,Proposed GraphRAG (ours),"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+When is Soybean grown?,Gemini Baseline Standalone Gemini 2.5 Flash,"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+When is Soybean grown?,Think-on-Graph (ToG),"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+When is Soybean grown?,LangChain GraphCypherQAChain,"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+When is Soybean grown?,Proposed GraphRAG (ours),"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What season is Potato cultivated?,Gemini Baseline Standalone Gemini 2.5 Flash,"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What season is Potato cultivated?,Think-on-Graph (ToG),"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What season is Potato cultivated?,LangChain GraphCypherQAChain,"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What season is Potato cultivated?,Proposed GraphRAG (ours),"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+When is Sunflower grown?,Gemini Baseline Standalone Gemini 2.5 Flash,"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+When is Sunflower grown?,Think-on-Graph (ToG),"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+When is Sunflower grown?,LangChain GraphCypherQAChain,"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+When is Sunflower grown?,Proposed GraphRAG (ours),"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What season is Cotton grown?,Gemini Baseline Standalone Gemini 2.5 Flash,"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What season is Cotton grown?,Think-on-Graph (ToG),"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What season is Cotton grown?,LangChain GraphCypherQAChain,"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What season is Cotton grown?,Proposed GraphRAG (ours),"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What fertilizers does Rice require?,Gemini Baseline Standalone Gemini 2.5 Flash,"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What fertilizers does Rice require?,Think-on-Graph (ToG),"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What fertilizers does Rice require?,LangChain GraphCypherQAChain,"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What fertilizers does Rice require?,Proposed GraphRAG (ours),"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What nutrients does Wheat need?,Gemini Baseline Standalone Gemini 2.5 Flash,"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What nutrients does Wheat need?,Think-on-Graph (ToG),"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What nutrients does Wheat need?,LangChain GraphCypherQAChain,"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What nutrients does Wheat need?,Proposed GraphRAG (ours),"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What fertilizers are needed for Cotton?,Gemini Baseline Standalone Gemini 2.5 Flash,"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What fertilizers are needed for Cotton?,Think-on-Graph (ToG),"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What fertilizers are needed for Cotton?,LangChain GraphCypherQAChain,"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What fertilizers are needed for Cotton?,Proposed GraphRAG (ours),"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What nutrients does Maize require?,Gemini Baseline Standalone Gemini 2.5 Flash,"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What nutrients does Maize require?,Think-on-Graph (ToG),"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What nutrients does Maize require?,LangChain GraphCypherQAChain,"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What nutrients does Maize require?,Proposed GraphRAG (ours),"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What fertilizers are used for Sugarcane?,Gemini Baseline Standalone Gemini 2.5 Flash,"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What fertilizers are used for Sugarcane?,Think-on-Graph (ToG),"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What fertilizers are used for Sugarcane?,LangChain GraphCypherQAChain,"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What fertilizers are used for Sugarcane?,Proposed GraphRAG (ours),"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What nutrients does Groundnut need?,Gemini Baseline Standalone Gemini 2.5 Flash,"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What nutrients does Groundnut need?,Think-on-Graph (ToG),"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What nutrients does Groundnut need?,LangChain GraphCypherQAChain,"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What nutrients does Groundnut need?,Proposed GraphRAG (ours),"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What fertilizers are needed for Mustard?,Gemini Baseline Standalone Gemini 2.5 Flash,"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What fertilizers are needed for Mustard?,Think-on-Graph (ToG),"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What fertilizers are needed for Mustard?,LangChain GraphCypherQAChain,"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What fertilizers are needed for Mustard?,Proposed GraphRAG (ours),"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What nutrients does Soybean require?,Gemini Baseline Standalone Gemini 2.5 Flash,"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What nutrients does Soybean require?,Think-on-Graph (ToG),"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What nutrients does Soybean require?,LangChain GraphCypherQAChain,"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What nutrients does Soybean require?,Proposed GraphRAG (ours),"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What fertilizers are used for Potato?,Gemini Baseline Standalone Gemini 2.5 Flash,"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What fertilizers are used for Potato?,Think-on-Graph (ToG),"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What fertilizers are used for Potato?,LangChain GraphCypherQAChain,"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What fertilizers are used for Potato?,Proposed GraphRAG (ours),"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What nutrients does Sunflower need?,Gemini Baseline Standalone Gemini 2.5 Flash,"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What nutrients does Sunflower need?,Think-on-Graph (ToG),"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What nutrients does Sunflower need?,LangChain GraphCypherQAChain,"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What nutrients does Sunflower need?,Proposed GraphRAG (ours),"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What pesticides control pests that affect Rice?,Gemini Baseline Standalone Gemini 2.5 Flash,"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What pesticides control pests that affect Rice?,Think-on-Graph (ToG),"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What pesticides control pests that affect Rice?,LangChain GraphCypherQAChain,"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What pesticides control pests that affect Rice?,Proposed GraphRAG (ours),"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What chemicals control diseases of Wheat?,Gemini Baseline Standalone Gemini 2.5 Flash,"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What chemicals control diseases of Wheat?,Think-on-Graph (ToG),"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What chemicals control diseases of Wheat?,LangChain GraphCypherQAChain,"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What chemicals control diseases of Wheat?,Proposed GraphRAG (ours),"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What pesticides are used against Cotton pests?,Gemini Baseline Standalone Gemini 2.5 Flash,"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What pesticides are used against Cotton pests?,Think-on-Graph (ToG),"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What pesticides are used against Cotton pests?,LangChain GraphCypherQAChain,"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What pesticides are used against Cotton pests?,Proposed GraphRAG (ours),"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What fungicides treat Rice diseases?,Gemini Baseline Standalone Gemini 2.5 Flash,"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What fungicides treat Rice diseases?,Think-on-Graph (ToG),"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What fungicides treat Rice diseases?,LangChain GraphCypherQAChain,"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What fungicides treat Rice diseases?,Proposed GraphRAG (ours),"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What insecticides protect Sugarcane from pests?,Gemini Baseline Standalone Gemini 2.5 Flash,"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What insecticides protect Sugarcane from pests?,Think-on-Graph (ToG),"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What insecticides protect Sugarcane from pests?,LangChain GraphCypherQAChain,"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What insecticides protect Sugarcane from pests?,Proposed GraphRAG (ours),"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+Where and when is Rice grown?,Gemini Baseline Standalone Gemini 2.5 Flash,"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+Where and when is Rice grown?,Think-on-Graph (ToG),"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+Where and when is Rice grown?,LangChain GraphCypherQAChain,"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+Where and when is Rice grown?,Proposed GraphRAG (ours),"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+In which states and seasons is Wheat cultivated?,Gemini Baseline Standalone Gemini 2.5 Flash,"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+In which states and seasons is Wheat cultivated?,Think-on-Graph (ToG),"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+In which states and seasons is Wheat cultivated?,LangChain GraphCypherQAChain,"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+In which states and seasons is Wheat cultivated?,Proposed GraphRAG (ours),"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+Where and during which season is Cotton grown?,Gemini Baseline Standalone Gemini 2.5 Flash,"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+Where and during which season is Cotton grown?,Think-on-Graph (ToG),"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+Where and during which season is Cotton grown?,LangChain GraphCypherQAChain,"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+Where and during which season is Cotton grown?,Proposed GraphRAG (ours),"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+In which regions and seasons is Maize cultivated?,Gemini Baseline Standalone Gemini 2.5 Flash,"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+In which regions and seasons is Maize cultivated?,Think-on-Graph (ToG),"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+In which regions and seasons is Maize cultivated?,LangChain GraphCypherQAChain,"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+In which regions and seasons is Maize cultivated?,Proposed GraphRAG (ours),"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+Where is Mustard grown and in which season?,Gemini Baseline Standalone Gemini 2.5 Flash,"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+Where is Mustard grown and in which season?,Think-on-Graph (ToG),"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+Where is Mustard grown and in which season?,LangChain GraphCypherQAChain,"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+Where is Mustard grown and in which season?,Proposed GraphRAG (ours),"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What are all the problems that affect Rice including pests and diseases?,Gemini Baseline Standalone Gemini 2.5 Flash,"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What are all the problems that affect Rice including pests and diseases?,Think-on-Graph (ToG),"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What are all the problems that affect Rice including pests and diseases?,LangChain GraphCypherQAChain,"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What are all the problems that affect Rice including pests and diseases?,Proposed GraphRAG (ours),"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What pests and diseases affect Cotton?,Gemini Baseline Standalone Gemini 2.5 Flash,"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What pests and diseases affect Cotton?,Think-on-Graph (ToG),"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What pests and diseases affect Cotton?,LangChain GraphCypherQAChain,"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What pests and diseases affect Cotton?,Proposed GraphRAG (ours),"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What are the major pests and diseases of Wheat?,Gemini Baseline Standalone Gemini 2.5 Flash,"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What are the major pests and diseases of Wheat?,Think-on-Graph (ToG),"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What are the major pests and diseases of Wheat?,LangChain GraphCypherQAChain,"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What are the major pests and diseases of Wheat?,Proposed GraphRAG (ours),"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What problems affect Mustard crop?,Gemini Baseline Standalone Gemini 2.5 Flash,"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What problems affect Mustard crop?,Think-on-Graph (ToG),"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What problems affect Mustard crop?,LangChain GraphCypherQAChain,"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What problems affect Mustard crop?,Proposed GraphRAG (ours),"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What are all threats to Groundnut?,Gemini Baseline Standalone Gemini 2.5 Flash,"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What are all threats to Groundnut?,Think-on-Graph (ToG),"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What are all threats to Groundnut?,LangChain GraphCypherQAChain,"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What are all threats to Groundnut?,Proposed GraphRAG (ours),"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What are symptoms of Rice Blast?,Gemini Baseline Standalone Gemini 2.5 Flash,"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What are symptoms of Rice Blast?,Think-on-Graph (ToG),"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What are symptoms of Rice Blast?,LangChain GraphCypherQAChain,"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What are symptoms of Rice Blast?,Proposed GraphRAG (ours),"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What symptoms does Wheat Rust show?,Gemini Baseline Standalone Gemini 2.5 Flash,"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What symptoms does Wheat Rust show?,Think-on-Graph (ToG),"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What symptoms does Wheat Rust show?,LangChain GraphCypherQAChain,"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What symptoms does Wheat Rust show?,Proposed GraphRAG (ours),"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What are the signs of Cotton Wilt?,Gemini Baseline Standalone Gemini 2.5 Flash,"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What are the signs of Cotton Wilt?,Think-on-Graph (ToG),"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What are the signs of Cotton Wilt?,LangChain GraphCypherQAChain,"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What are the signs of Cotton Wilt?,Proposed GraphRAG (ours),"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What symptoms does Brown Spot disease cause?,Gemini Baseline Standalone Gemini 2.5 Flash,"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What symptoms does Brown Spot disease cause?,Think-on-Graph (ToG),"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What symptoms does Brown Spot disease cause?,LangChain GraphCypherQAChain,"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What symptoms does Brown Spot disease cause?,Proposed GraphRAG (ours),"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What are symptoms of Sheath Blight in Rice?,Gemini Baseline Standalone Gemini 2.5 Flash,"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What are symptoms of Sheath Blight in Rice?,Think-on-Graph (ToG),"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What are symptoms of Sheath Blight in Rice?,LangChain GraphCypherQAChain,"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What are symptoms of Sheath Blight in Rice?,Proposed GraphRAG (ours),"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What type of soil does Rice grow in?,Gemini Baseline Standalone Gemini 2.5 Flash,"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What type of soil does Rice grow in?,Think-on-Graph (ToG),"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What type of soil does Rice grow in?,LangChain GraphCypherQAChain,"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What type of soil does Rice grow in?,Proposed GraphRAG (ours),"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What soil is suitable for Wheat?,Gemini Baseline Standalone Gemini 2.5 Flash,"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What soil is suitable for Wheat?,Think-on-Graph (ToG),"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What soil is suitable for Wheat?,LangChain GraphCypherQAChain,"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What soil is suitable for Wheat?,Proposed GraphRAG (ours),"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What irrigation does Cotton need?,Gemini Baseline Standalone Gemini 2.5 Flash,"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What irrigation does Cotton need?,Think-on-Graph (ToG),"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What irrigation does Cotton need?,LangChain GraphCypherQAChain,"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What irrigation does Cotton need?,Proposed GraphRAG (ours),"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What soil does Groundnut grow in?,Gemini Baseline Standalone Gemini 2.5 Flash,"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What soil does Groundnut grow in?,Think-on-Graph (ToG),"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What soil does Groundnut grow in?,LangChain GraphCypherQAChain,"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What soil does Groundnut grow in?,Proposed GraphRAG (ours),"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What water requirement does Sugarcane have?,Gemini Baseline Standalone Gemini 2.5 Flash,"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What water requirement does Sugarcane have?,Think-on-Graph (ToG),"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What water requirement does Sugarcane have?,LangChain GraphCypherQAChain,"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What water requirement does Sugarcane have?,Proposed GraphRAG (ours),"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+How can Rice Blast be prevented?,Gemini Baseline Standalone Gemini 2.5 Flash,"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+How can Rice Blast be prevented?,Think-on-Graph (ToG),"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+How can Rice Blast be prevented?,LangChain GraphCypherQAChain,"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+How can Rice Blast be prevented?,Proposed GraphRAG (ours),"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+How to prevent Wheat Rust?,Gemini Baseline Standalone Gemini 2.5 Flash,"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+How to prevent Wheat Rust?,Think-on-Graph (ToG),"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+How to prevent Wheat Rust?,LangChain GraphCypherQAChain,"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+How to prevent Wheat Rust?,Proposed GraphRAG (ours),"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+How can Cotton Wilt be prevented?,Gemini Baseline Standalone Gemini 2.5 Flash,"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+How can Cotton Wilt be prevented?,Think-on-Graph (ToG),"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+How can Cotton Wilt be prevented?,LangChain GraphCypherQAChain,"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+How can Cotton Wilt be prevented?,Proposed GraphRAG (ours),"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+Which pesticide controls Stem Borer which affects Rice?,Gemini Baseline Standalone Gemini 2.5 Flash,"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+Which pesticide controls Stem Borer which affects Rice?,Think-on-Graph (ToG),"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+Which pesticide controls Stem Borer which affects Rice?,LangChain GraphCypherQAChain,"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+Which pesticide controls Stem Borer which affects Rice?,Proposed GraphRAG (ours),"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What diseases affect crops grown in Punjab?,Gemini Baseline Standalone Gemini 2.5 Flash,"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What diseases affect crops grown in Punjab?,Think-on-Graph (ToG),"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What diseases affect crops grown in Punjab?,LangChain GraphCypherQAChain,"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What diseases affect crops grown in Punjab?,Proposed GraphRAG (ours),"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+Which crops grown in West Bengal are affected by Blast?,Gemini Baseline Standalone Gemini 2.5 Flash,"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+Which crops grown in West Bengal are affected by Blast?,Think-on-Graph (ToG),"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+Which crops grown in West Bengal are affected by Blast?,LangChain GraphCypherQAChain,"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+Which crops grown in West Bengal are affected by Blast?,Proposed GraphRAG (ours),"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What pests affect Kharif crops?,Gemini Baseline Standalone Gemini 2.5 Flash,"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What pests affect Kharif crops?,Think-on-Graph (ToG),"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What pests affect Kharif crops?,LangChain GraphCypherQAChain,"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What pests affect Kharif crops?,Proposed GraphRAG (ours),"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+Which fertilizers are used for Rabi crops?,Gemini Baseline Standalone Gemini 2.5 Flash,"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+Which fertilizers are used for Rabi crops?,Think-on-Graph (ToG),"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+Which fertilizers are used for Rabi crops?,LangChain GraphCypherQAChain,"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+Which fertilizers are used for Rabi crops?,Proposed GraphRAG (ours),"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What crops are grown in Maharashtra?,Gemini Baseline Standalone Gemini 2.5 Flash,"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What crops are grown in Maharashtra?,Think-on-Graph (ToG),"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What crops are grown in Maharashtra?,LangChain GraphCypherQAChain,"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What crops are grown in Maharashtra?,Proposed GraphRAG (ours),"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+Which pests affect crops grown in Rajasthan?,Gemini Baseline Standalone Gemini 2.5 Flash,"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+Which pests affect crops grown in Rajasthan?,Think-on-Graph (ToG),"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+Which pests affect crops grown in Rajasthan?,LangChain GraphCypherQAChain,"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+Which pests affect crops grown in Rajasthan?,Proposed GraphRAG (ours),"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What are all diseases that affect Rabi crops?,Gemini Baseline Standalone Gemini 2.5 Flash,"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What are all diseases that affect Rabi crops?,Think-on-Graph (ToG),"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What are all diseases that affect Rabi crops?,LangChain GraphCypherQAChain,"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What are all diseases that affect Rabi crops?,Proposed GraphRAG (ours),"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+Which crops require Nitrogen fertilizer?,Gemini Baseline Standalone Gemini 2.5 Flash,"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+Which crops require Nitrogen fertilizer?,Think-on-Graph (ToG),"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+Which crops require Nitrogen fertilizer?,LangChain GraphCypherQAChain,"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+Which crops require Nitrogen fertilizer?,Proposed GraphRAG (ours),"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What crops are affected by Aphids?,Gemini Baseline Standalone Gemini 2.5 Flash,"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What crops are affected by Aphids?,Think-on-Graph (ToG),"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What crops are affected by Aphids?,LangChain GraphCypherQAChain,"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0
+What crops are affected by Aphids?,Proposed GraphRAG (ours),"Error: 1 validation error for ChatGoogleGenerativeAI
+  Value error, API key required for Gemini Developer API. Provide api_key parameter or set GOOGLE_API_KEY/GEMINI_API_KEY environment variable. [typ",0.0,0.0,0.0,0

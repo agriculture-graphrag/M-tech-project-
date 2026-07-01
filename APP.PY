@@ -1,6 +1,6 @@
 import streamlit as st
 from neo4j import GraphDatabase
-from langchain_openai import ChatOpenAI
+from langchain_google_genai import ChatGoogleGenerativeAI
 from rapidfuzz import process, fuzz
 import graphviz
 import os
@@ -12,7 +12,7 @@ NEO4J_URI      = "bolt+ssc://p-mt-2a41353b6b9a-1-0090.production-orch-0695.neo4j
 NEO4J_USERNAME = os.getenv("NEO4J_USERNAME")
 NEO4J_PASSWORD = os.getenv("NEO4J_PASSWORD")
 NEO4J_DATABASE = "f9c5be28"
-OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
+GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
 
 @st.cache_resource
 def get_driver():
@@ -20,7 +20,11 @@ def get_driver():
 
 @st.cache_resource
 def get_llm():
-    return ChatOpenAI(model="gpt-4o-mini", api_key=OPENAI_API_KEY, temperature=0)
+    return ChatGoogleGenerativeAI(
+        model="gemini-2.5-flash",
+        google_api_key=GEMINI_API_KEY,
+        temperature=0
+    )
 
 @st.cache_data
 def get_all_entities():
@@ -213,7 +217,7 @@ with st.sidebar:
     st.markdown("🩵 **Irrigation**")
     st.markdown("🟤 **Soil**")
     st.markdown("---")
-    st.markdown("**Model:** GPT-4o-mini + Neo4j")
+    st.markdown("**Model:** Gemini-2.5-flash + Neo4j")
     st.markdown("**Method:** GraphRAG + RapidFuzz")
 
 st.markdown("### 💡 Sample Questions")

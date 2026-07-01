@@ -2,9 +2,7 @@ import tiktoken
 
 
 class SemanticChunker:
-    """
-    Token based semantic chunking for GPT-4o-mini
-    """
+   
 
     def __init__(
         self,

@@ -1,0 +1,5 @@
+model,accuracy,precision,recall,f1
+Gemini Baseline Standalone Gemini 2.5 Flash,0.0,0.0,0.0,0.0
+LangChain GraphCypherQAChain,0.0,0.0,0.0,0.0
+Proposed GraphRAG (ours),0.0,0.0,0.0,0.0
+Think-on-Graph (ToG),0.0,0.0,0.0,0.0

@@ -1,14 +1,9 @@
 import json
+import google.generativeai as genai
 
-from openai import OpenAI
+from config import GEMINI_API_KEY
 
-from config import OPENAI_API_KEY
-
-
-client = OpenAI(
-    api_key=OPENAI_API_KEY
-)
-
+genai.configure(api_key=GEMINI_API_KEY)
 
 SYSTEM_PROMPT = """
 You are an Agriculture Knowledge Graph Extraction System.
@@ -75,13 +70,10 @@ Output format
  ]
 }
 """
-
-
 class AgricultureExtractor:
 
     def __init__(self):
-
-        self.model = "gpt-4o-mini"
+        self.model = genai.GenerativeModel("gemini-2.5-flash")
 
     def call_llm(self, text):
 
@@ -90,28 +82,22 @@ class AgricultureExtractor:
 {text}
 """
 
-        response = client.chat.completions.create(
-            model=self.model,
-            messages=[
-                {
-                    "role": "system",
-                    "content": SYSTEM_PROMPT
-                },
-                {
-                    "role": "user",
-                    "content": user_prompt
-                }
-            ],
-            temperature=0
+        prompt = SYSTEM_PROMPT + "\n\n" + user_prompt
+
+        response = self.model.generate_content(
+            prompt,
+            generation_config=genai.types.GenerationConfig(
+                temperature=0
+            )
         )
 
-        return response.choices[0].message.content
+        return response.text
 
     def extract_chunk(self, chunk):
 
         try:
-
             result = self.call_llm(chunk)
+            result = result.replace("```json", "").replace("```", "").strip()
 
             data = json.loads(result)
 
@@ -125,7 +111,7 @@ class AgricultureExtractor:
 
         except Exception as e:
 
-            print(f"Extraction Error : {e}")
+            print(f"Extraction Error: {e}")
 
             return {
                 "entities": [],
@@ -133,10 +119,6 @@ class AgricultureExtractor:
             }
 
     def extract_document(self, chunks):
-        """
-        Extract entities and relationships from all chunks
-        and merge the results.
-        """
 
         all_entities = []
         all_relationships = []
@@ -154,7 +136,6 @@ class AgricultureExtractor:
             "entities": all_entities,
             "relationships": all_relationships
         }
-
 
 if __name__ == "__main__":
 

@@ -1,13 +1,9 @@
 import json
 
-from openai import OpenAI
+import google.generativeai as genai
+from config import GEMINI_API_KEY
 
-from config import OPENAI_API_KEY
-
-
-client = OpenAI(
-    api_key=OPENAI_API_KEY
-)
+genai.configure(api_key=GEMINI_API_KEY)
 
 
 SYSTEM_PROMPT = """
@@ -81,31 +77,24 @@ class AgricultureExtractor:
 
     def __init__(self):
 
-        self.model = "gpt-4o-mini"
+        self.model = genai.GenerativeModel("gemini-2.5-flash")
 
     def call_llm(self, text):
-
         user_prompt = f"""Extract all agriculture entities and relationships from the following text:
 
 {text}
 """
 
-        response = client.chat.completions.create(
-            model=self.model,
-            messages=[
-                {
-                    "role": "system",
-                    "content": SYSTEM_PROMPT
-                },
-                {
-                    "role": "user",
-                    "content": user_prompt
-                }
-            ],
-            temperature=0
+        prompt = SYSTEM_PROMPT + "\n\n" + user_prompt
+
+        response = self.model.generate_content(
+            prompt,
+            generation_config=genai.types.GenerationConfig(
+                temperature=0
+            )
         )
 
-        return response.choices[0].message.content
+        return response.text
 
     def extract_chunk(self, chunk):
 
